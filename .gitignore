@@ -1,0 +1,61 @@
+ # OS files
+ Thumbs.db
+ .DS_Store
+ Desktop.ini
+ 
+ # IDE / Editor
+ .vscode/
+ .idea/
+ *.swp
+ *.swo
+ *~
+ .history/
+ 
+ # Node.js
+ node_modules/
+ npm-debug.log*
+ yarn-debug.log*
+ yarn-error.log*
+ 
+ # Python
+ __pycache__/
+ *.pyc
+ *.pyo
+ *.egg-info/
+ .venv/
+ venv/
+ 
+ # Build / Output
+ dist/
+ build/
+ out/
+ *.exe
+ *.dll
+ *.so
+ *.dylib
+ 
+ # Environment
+ .env
+ .env.local
+ .env.*.local
+ 
+ # Logs
+ *.log
+ logs/
+ 
+ # Temp
+ tmp/
+ temp/
+ *.tmp
+ 
+ # Codex / Agents
+ .agents/
+ .codex/
+ 
+ # Java
+ *.class
+ target/
+ 
+ # Rust
+ target/debug/
+ target/release/
